@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\bin\Debug\net6.0\Exercicio1-Letras.exe
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\bin\Debug\net6.0\Exercicio1-Letras.deps.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\bin\Debug\net6.0\Exercicio1-Letras.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\bin\Debug\net6.0\Exercicio1-Letras.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\bin\Debug\net6.0\Exercicio1-Letras.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\Exercicio1-Letras.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\Exercicio1-Letras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\Exercicio1-Letras.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\Exercicio1-Letras.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\Exercicio1-Letras.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\Exercicio1-Letras.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\refint\Exercicio1-Letras.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\Exercicio1-Letras.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\Exercicio1-Letras.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\provas\Prova Final\GFT-4-Teste-Tecnico-\Exercicio-1\Exercicio1-Letras\Exercicio1-Letras\obj\Debug\net6.0\ref\Exercicio1-Letras.dll
